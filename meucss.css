@@ -37,8 +37,8 @@ h2,h3,h4 {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
-  align-content: right;
-  width: 60%;
+  align-content: center;
+  width: 50%;
   margin:auto;
 }
 
