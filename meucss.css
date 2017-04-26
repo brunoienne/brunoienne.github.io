@@ -17,6 +17,7 @@ body {
 #linha{
 	padding: 2px 0;
 	margin:auto;
+	align-content:right;
 }
 
 .fa {
