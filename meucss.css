@@ -38,7 +38,7 @@ h2,h3,h4 {
   display: flex;
   flex-direction: column;
   align-content: center;
-  width: 50%;
+  width: 60%;
   margin:auto;
 }
 
@@ -68,7 +68,7 @@ h2,h3,h4 {
     }
     .container-fluid {
       margin-top: 20%;
-      width: 95%;
+      width: 60%;
       font-size: 40px;
     }
 }
