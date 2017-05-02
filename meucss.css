@@ -9,8 +9,8 @@ body {
 
 .row{
 	padding: 15px 0;
-	margin-left:50px;
-	position:center;
+	margin:auto;
+	position:absolute;
 }
 
 .fa {
