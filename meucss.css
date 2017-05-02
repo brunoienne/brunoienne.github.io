@@ -11,6 +11,9 @@ body {
 .fa {
     color: #646363;
 }
+.col-xs-2 col-md-1{
+	 position: center;
+}
 
 h2,h3,h4 {
   color: #504d4d;
