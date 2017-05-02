@@ -9,7 +9,8 @@ body {
 
 .row{
 	padding: 15px 0;
-	margin:auto;
+	left:50%;
+	right:50%;
 	position:absolute;
 }
 
