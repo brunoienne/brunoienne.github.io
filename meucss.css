@@ -7,6 +7,9 @@ body {
   background-image: url("mario.jpg");
 }
 
+a{
+	position:center;
+}
 
 .fa {
     color: #646363;
