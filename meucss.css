@@ -7,8 +7,8 @@ body {
   background-image: url("mario.jpg");
 }
 
-#linha{
-	position:center;
+#linha1{
+	padding: 2px 0;
 	margin:auto;
 }
 
