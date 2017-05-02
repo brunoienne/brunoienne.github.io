@@ -7,11 +7,6 @@ body {
   background-image: url("mario.jpg");
 }
 
-#linha{
-	padding: 5px 0;
-	margin:auto;
-	align-content:center;
-}
 
 .fa {
     color: #646363;
