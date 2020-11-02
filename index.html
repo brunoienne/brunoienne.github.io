@@ -78,8 +78,7 @@
                     <div class="col-sm-3">
                       <h6 class="mb-0"><b>Idade</b></h6>
                     </div>
-                    <div class="col-sm-9 text-secondary">
-                      22
+                    <div class="col-sm-9 text-secondary" id="idade">
                     </div>
                   </div>
                   <hr>
@@ -136,5 +135,13 @@
     </div>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    dob = new Date('1998-04-25');
+    var today = new Date();
+    var age = Math.floor((today-dob) / (365.25 * 24 * 60 * 60 * 1000));
+    $('#idade').html(age);
+  });
+</script>
 </body>
 </html>
